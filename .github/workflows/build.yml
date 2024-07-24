@@ -27,6 +27,7 @@ jobs:
           - rock-5a
           - rock-5c
           - rock-5-itx
+          - radxa-cm5
           - orangepi-5
           - orangepi-5plus
           - indiedroid-nova
